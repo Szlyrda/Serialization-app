@@ -81,9 +81,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(36, 126);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 16);
+            this.label2.Size = new System.Drawing.Size(82, 16);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Waga";
+            this.label2.Text = "Waga (w kg)";
             this.label2.Visible = false;
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
@@ -92,9 +92,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(36, 172);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(74, 16);
+            this.label3.Size = new System.Drawing.Size(115, 16);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Wysokość ";
+            this.label3.Text = "Wysokość  (w cm)";
             this.label3.Visible = false;
             // 
             // addButton
@@ -120,7 +120,7 @@
             this.textBox4.ReadOnly = true;
             this.textBox4.Size = new System.Drawing.Size(282, 357);
             this.textBox4.TabIndex = 10;
-            this.textBox4.Text = "Tutaj pojawi się lista";
+            this.textBox4.Text = "Po wciśnieciu przycisku deserializuj tutaj pojawi się lista";
             this.textBox4.Visible = false;
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
@@ -141,11 +141,11 @@
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(276, 52);
+            this.textBox5.Location = new System.Drawing.Point(257, 52);
             this.textBox5.Multiline = true;
             this.textBox5.Name = "textBox5";
             this.textBox5.ReadOnly = true;
-            this.textBox5.Size = new System.Drawing.Size(185, 71);
+            this.textBox5.Size = new System.Drawing.Size(204, 71);
             this.textBox5.TabIndex = 12;
             this.textBox5.Text = "Tutaj pojawi się ostatni dodany rekord";
             this.textBox5.Visible = false;

@@ -69,29 +69,43 @@ namespace Serializacja
             label1.Visible = true;
             label2.Visible = true;
             label3.Visible = true;
+
+            textBox1.Focus();
         }
         
         private void addButton_Click_1(object sender, EventArgs e)
         {
-            // Utworzenie nowego obiektu Animal na podstawie wprowadzonych danych
-            string animalName = textBox1.Text;
-            double animalWeight = Convert.ToDouble(textBox2.Text);
-            double animalHeight = Convert.ToDouble(textBox3.Text);
-            Animal animal = new Animal(animalName, animalWeight, animalHeight);
-
-            // Dodanie nowego zwierzęcia do listy theAnimals
-            theAnimals.Add(animal);
-
-            // Wyświetlenie informacji o dodanym zwierzęciu
-            textBox5.Text = animal.ToString();
-
-            // Serializacja listy theAnimals i zapisanie jej do pliku XML
-            XmlSerializer serializer = new XmlSerializer(typeof(List<Animal>));
-            using (TextWriter tw = new StreamWriter(Path.Combine(folderPath, "zwierzeta.xml")))
+            try
             {
-                serializer.Serialize(tw, theAnimals);
+                // Utworzenie nowego obiektu Animal na podstawie wprowadzonych danych
+                string animalName = textBox1.Text;
+                double animalWeight = Convert.ToDouble(textBox2.Text);
+                double animalHeight = Convert.ToDouble(textBox3.Text);
+                Animal animal = new Animal(animalName, animalWeight, animalHeight);
+
+                // Dodanie nowego zwierzęcia do listy theAnimals
+                theAnimals.Add(animal);
+
+                // Wyświetlenie informacji o dodanym zwierzęciu
+                textBox5.Text = animal.ToString();
+
+                // Serializacja listy theAnimals i zapisanie jej do pliku XML
+                XmlSerializer serializer = new XmlSerializer(typeof(List<Animal>));
+                using (TextWriter tw = new StreamWriter(Path.Combine(folderPath, "zwierzeta.xml")))
+                {
+                    serializer.Serialize(tw, theAnimals);
+                }
             }
-            
+            catch (System.FormatException ex)
+            {
+                MessageBox.Show("Należy podać poprawne wartości w polach 'Waga' i 'Wysokość'");
+            }
+            finally
+            {
+                textBox2.Text = "";
+                textBox3.Text = "";
+            }
+            textBox1.Focus();
         }
 
         // Inicjalizacja listy theAnimals
