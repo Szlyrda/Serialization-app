@@ -1,0 +1,22 @@
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\bin\Debug\Serializacja.exe.config
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\bin\Debug\Serializacja.exe
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\bin\Debug\Serializacja.pdb
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.csproj.AssemblyReference.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.csproj.SuggestedBindingRedirects.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.Form1.resources
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.Properties.Resources.resources
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.csproj.GenerateResource.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.csproj.CoreCompileInputs.cache
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.exe
+F:\Mój dysk\Studia\Sem 4\Programowanie .NET (LAB) Fidytek\Serializacja\obj\Debug\Serializacja.pdb
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\bin\Debug\Serializacja.exe.config
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\bin\Debug\Serializacja.exe
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\bin\Debug\Serializacja.pdb
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.csproj.SuggestedBindingRedirects.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.Properties.Resources.resources
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.csproj.GenerateResource.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.exe
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.pdb
+G:\.shortcut-targets-by-id\1L0z_i-ymj8laP39AZ46O7EIqeKAIHnfr\Studia\Sem 4\Programowanie .NET (LAB)\Serializacja Kamil Falgowski 39626\obj\Debug\Serializacja.Serializacja.resources
